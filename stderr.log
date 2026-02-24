@@ -1,0 +1,585 @@
+/usr/local/lsws/fcgi-bin/lsnode.js:48
+    var app = require(startupFile);
+              ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u871223440/domains/docarmo.store/nodejs/server.js from /usr/local/lsws/fcgi-bin/lsnode.js not supported.
+Instead change the require of server.js in /usr/local/lsws/fcgi-bin/lsnode.js to a dynamic import() which is available in all CommonJS modules.
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+/usr/local/lsws/fcgi-bin/lsnode.js:48
+    var app = require(startupFile);
+              ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u871223440/domains/docarmo.store/nodejs/server.js from /usr/local/lsws/fcgi-bin/lsnode.js not supported.
+Instead change the require of server.js in /usr/local/lsws/fcgi-bin/lsnode.js to a dynamic import() which is available in all CommonJS modules.
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+/usr/local/lsws/fcgi-bin/lsnode.js:48
+    var app = require(startupFile);
+              ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u871223440/domains/docarmo.store/nodejs/server.js from /usr/local/lsws/fcgi-bin/lsnode.js not supported.
+Instead change the require of server.js in /usr/local/lsws/fcgi-bin/lsnode.js to a dynamic import() which is available in all CommonJS modules.
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+/usr/local/lsws/fcgi-bin/lsnode.js:48
+    var app = require(startupFile);
+              ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u871223440/domains/docarmo.store/nodejs/server.js from /usr/local/lsws/fcgi-bin/lsnode.js not supported.
+Instead change the require of server.js in /usr/local/lsws/fcgi-bin/lsnode.js to a dynamic import() which is available in all CommonJS modules.
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+/usr/local/lsws/fcgi-bin/lsnode.js:48
+    var app = require(startupFile);
+              ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u871223440/domains/docarmo.store/nodejs/server.js from /usr/local/lsws/fcgi-bin/lsnode.js not supported.
+Instead change the require of server.js in /usr/local/lsws/fcgi-bin/lsnode.js to a dynamic import() which is available in all CommonJS modules.
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+/usr/local/lsws/fcgi-bin/lsnode.js:48
+    var app = require(startupFile);
+              ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u871223440/domains/docarmo.store/nodejs/server.js from /usr/local/lsws/fcgi-bin/lsnode.js not supported.
+Instead change the require of server.js in /usr/local/lsws/fcgi-bin/lsnode.js to a dynamic import() which is available in all CommonJS modules.
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+/usr/local/lsws/fcgi-bin/lsnode.js:48
+    var app = require(startupFile);
+              ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u871223440/domains/docarmo.store/nodejs/server.js from /usr/local/lsws/fcgi-bin/lsnode.js not supported.
+Instead change the require of server.js in /usr/local/lsws/fcgi-bin/lsnode.js to a dynamic import() which is available in all CommonJS modules.
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+/usr/local/lsws/fcgi-bin/lsnode.js:48
+    var app = require(startupFile);
+              ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u871223440/domains/docarmo.store/nodejs/server.js from /usr/local/lsws/fcgi-bin/lsnode.js not supported.
+Instead change the require of server.js in /usr/local/lsws/fcgi-bin/lsnode.js to a dynamic import() which is available in all CommonJS modules.
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+/usr/local/lsws/fcgi-bin/lsnode.js:48
+    var app = require(startupFile);
+              ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u871223440/domains/docarmo.store/nodejs/server.js from /usr/local/lsws/fcgi-bin/lsnode.js not supported.
+Instead change the require of server.js in /usr/local/lsws/fcgi-bin/lsnode.js to a dynamic import() which is available in all CommonJS modules.
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+/usr/local/lsws/fcgi-bin/lsnode.js:48
+    var app = require(startupFile);
+              ^
+
+Error [ERR_REQUIRE_ESM]: require() of ES Module /home/u871223440/domains/docarmo.store/nodejs/server.js from /usr/local/lsws/fcgi-bin/lsnode.js not supported.
+Instead change the require of server.js in /usr/local/lsws/fcgi-bin/lsnode.js to a dynamic import() which is available in all CommonJS modules.
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1) {
+  code: 'ERR_REQUIRE_ESM'
+}
+
+Node.js v18.20.8
+BOOT ERROR:
+ SyntaxError: Identifier 'uploadsDir' has already been declared
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:152:18)
+    at ModuleLoader.moduleProvider (node:internal/modules/esm/loader:299:14)
+    at async link (node:internal/modules/esm/module_job:67:21)
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.category.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:123:16 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.category.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:123:16 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.adminUser.findUnique()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:177:16 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.adminUser.findUnique()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:177:16 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.category.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:123:16 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.category.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:123:16 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.category.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:123:16 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.category.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:123:16 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.category.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:123:16 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
+UNHANDLED PrismaClientInitializationError: 
+Invalid `prisma.product.findMany()` invocation:
+
+
+error: Environment variable not found: DATABASE_URL.
+  -->  schema.prisma:7
+   | 
+ 6 |   provider = "mysql"
+ 7 |   url      = env("DATABASE_URL")
+   | 
+
+Validation Error Count: 1
+    at $n.handleRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:7615)
+    at $n.handleAndLogRequestError (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6623)
+    at $n.request (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:121:6307)
+    at async l (/home/u871223440/domains/docarmo.store/nodejs/server/node_modules/@prisma/client/runtime/library.js:130:9633)
+    at async file:///home/u871223440/domains/docarmo.store/nodejs/server/src/index.js:156:20 {
+  clientVersion: '5.22.0',
+  errorCode: undefined
+}
